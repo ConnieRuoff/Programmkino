@@ -37,7 +37,16 @@
         
         
         
-        
+         <div class="main">
+    <nav class="container">
+      <ul>
+        <li>Store</li>
+        <li>Hours</li>
+        <li>Wholesale</li>
+      </ul>
+    </nav>
+    <img src="https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/logo.png" />
+  </div>
         
         <div class="container-posts">
         

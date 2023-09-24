@@ -1,8 +1,8 @@
 /*
-Theme Name: Programmkino
-Author: Jonas Hellwig
-Author URI: https://kulturbanause.de/
-Description: Beispiel-Theme für das Video-Training
+Theme Name: Original Schreibblogg Theme
+Author: Connie Ruoff 
+Author URI: https://schreibblogg.de/
+Description: Beispiel-Theme für einen Literaturblog
 Version: 1.0
 */
 
@@ -13,8 +13,8 @@ Version: 1.0
 }
 
 body {
-    background-color: #122F00;
-    color: white;
+    background-color: #c0d1f9;
+    color: black;
     padding-top: 120px;
     background-image: radial-gradient(circle, white, transparent);
     background-size: cover;
