@@ -234,7 +234,11 @@ a img.aligncenter {
     display:block;
     margin-bottom: 1em;
 }
-
+.photo.first {
+  position: relative;
+  top: -2.77rem;
+  margin-bottom: 1.67rem;
+}
 @media screen and (min-width:800px) {
     .site-header {
         float:left;

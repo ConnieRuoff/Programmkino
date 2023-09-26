@@ -41,12 +41,19 @@
 
 <body <?php body_class();?>> 
    
+
 <div class="container">
 <header class="site-header">
     <a class="logo" href="<?php echo home_url('/');?>">
         <?php bloginfo('name');?> – <?php bloginfo('description');?>
     </a>
-    
+    <div class="first photo">
+      <div class="image-container">
+        <img src="https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/photo1.png">
+      </div>
+      <span class="caption">A convoy of camels criss-crossing the crests of the Sahara</span>
+    </div>
+   
     
     <?php get_search_form();?>
     

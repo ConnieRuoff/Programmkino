@@ -1,7 +1,7 @@
 <section <?php post_class();?>>
     
 
-<?php if(is_page(42) || is_front_page() || is_archive()) { ?>
+<?php if(is_page(40244) || is_front_page() || is_archive()) { ?>
     <h2><a href="<?php the_permalink();?>"><?php the_title();?></a></h2>
 <?php } else { ?>
     <h1><a href="<?php the_permalink();?>"><?php the_title();?></a></h1>
